@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 class InsertAtPos
 {
+    @SuppressWarnings("ManualArrayToCollectionCopy")
     public static void main(String[] args) {
         
         Scanner ob = new Scanner(System.in);
